@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Oleum</string>
+    <string name="app_name_dev">Oleum Dev</string>
+    <string name="app_name_staging">Oleum Staging</string>
+    <string name="facebook_app_id">848337559192272</string>
+    <string name="facebook_client_token">2921646ed84e57aec53c5bddbb22cf76</string>
+</resources> 
